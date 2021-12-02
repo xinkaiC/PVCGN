@@ -2,7 +2,7 @@
 base_dir: data/checkpoint/hz_mrgcn_global_local_fusion
 log_level: INFO
 data:
-  batch_size: 32
+  batch_size: 16
   dataset_dir: data/hangzhou
   test_batch_size: 8
   val_batch_size: 8
